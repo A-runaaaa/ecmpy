@@ -40,5 +40,7 @@ The "all--radius2--ngram3--dim20--layer_gnn3--window11--layer_cnn3--layer_output
 The 'bigg_models_metabolites.txt" file is downloaded from BiGG(http://bigg.ucsd.edu/static/namespace/bigg_models_metabolites.txt).  
 The "brenda_2023_1.txt" file is downloaded from BRENDA(https://www.brenda-enzymes.org/brenda_download/file_download.php), and "EC_kcat_max.json" is obtained from this file extraction.  
 The "gene_abundance.csv" file is downloaded and transformed from PaxDB(https://pax-db.org/download).  
+
+https://ecmpy.readthedocs.io/en/latest/
 The "uniprot_data_accession_key.json" is compiled from the UniProt database.  
 The "AutoPACMEN_function.py" file is downloaded and modified from the AutoPACMEN method(https://github.com/klamt-lab/autopacmen.git).  
