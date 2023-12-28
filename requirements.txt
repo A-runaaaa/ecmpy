@@ -19,3 +19,4 @@ kaleido
 nbformat
 sphinx_rtd_theme
 python-libsbml
+cmake
