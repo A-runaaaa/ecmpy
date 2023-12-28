@@ -18,3 +18,5 @@ plotly
 kaleido
 nbformat
 sphinx_rtd_theme
+cmake
+python-libsbml
