@@ -3,7 +3,7 @@ openpyxl
 requests  
 pebble  
 xlsxwriter  
-Bio   
+#Bio   
 Require  
 quest   
 scikit-learn  
@@ -11,12 +11,11 @@ RDKit
 seaborn 
 pubchempy
 ipykernel 
-bioservices==1.10.4
-pyprobar
+#bioservices==1.10.4
+#pyprobar
 xmltodict
 plotly
 kaleido
 nbformat
 sphinx_rtd_theme
-cmake
 #--no-binary :all: python-libsbml
