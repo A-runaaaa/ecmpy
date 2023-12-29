@@ -62,11 +62,3 @@ html_static_path = ['_static']
 html_js_files = [
     'my_custom.js',
     ]
-
-def setup(app):
-    app.add_config_value('cmake', None, 'html')
-    app.connect('builder-inited', on_builder_inited)
-
-def on_builder_inited(app):
-    if app.config.cmake:
-        app.builder.config['dependencies'].append('cmake')
