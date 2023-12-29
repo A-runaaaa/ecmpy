@@ -3,7 +3,7 @@ openpyxl
 requests  
 pebble  
 xlsxwriter  
-#Bio   
+Bio   
 Require  
 quest   
 scikit-learn  
