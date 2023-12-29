@@ -19,4 +19,4 @@ kaleido
 nbformat
 sphinx_rtd_theme
 cmake
---no-binary :all: python-libsbml
+#--no-binary :all: python-libsbml
