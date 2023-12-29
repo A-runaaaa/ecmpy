@@ -10,12 +10,12 @@ scikit-learn
 RDKit  
 seaborn 
 pubchempy
-ipykernel 
+#ipykernel 
 #bioservices==1.10.4
 #pyprobar
-xmltodict
-plotly
-kaleido
+#xmltodict
+#plotly
+#kaleido
 nbformat
 sphinx_rtd_theme
 #--no-binary :all: python-libsbml
