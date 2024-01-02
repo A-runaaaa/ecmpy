@@ -15,6 +15,7 @@ build:
     # golang: "1.20"
   apt_packages:
     - cmake
+    - swig
 
 
 # Build documentation in the "docs/" directory with Sphinx
