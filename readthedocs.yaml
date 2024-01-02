@@ -14,7 +14,6 @@ build:
     # rust: "1.70"
     # golang: "1.20"
   apt_packages:
-    - libclang
     - cmake
 
 
