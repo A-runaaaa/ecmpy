@@ -11,7 +11,7 @@ RDKit
 seaborn 
 pubchempy
 ipykernel 
-rich
+rich>=6.2.0
 numpy==1.22.4
 typing-extensions==4.7.1
 torch
