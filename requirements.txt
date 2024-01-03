@@ -1,4 +1,4 @@
-cobra==0.28.0  
+cobra==0.24.0  
 openpyxl  
 requests  
 pebble  
