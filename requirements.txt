@@ -18,5 +18,4 @@ pubchempy
 #kaleido
 nbformat
 sphinx_rtd_theme
-formatter
 #--no-binary :all: python-libsbml
