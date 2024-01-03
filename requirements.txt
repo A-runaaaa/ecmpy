@@ -11,6 +11,8 @@ RDKit
 seaborn 
 pubchempy
 ipykernel 
+numpy
+torch
 bioservices==1.10.4
 pyprobar
 xmltodict
