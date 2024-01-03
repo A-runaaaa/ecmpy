@@ -8,7 +8,7 @@
 import os
 import sys
 sys.path.append(r'./src/')
-sys.path.insert(0, os.path.abspath('./src/'))
+sys.path.insert(0, os.path.abspath('./src/model.py'))
 
 project = 'ECMpy'
 copyright = '2023, Mao zhitao'
